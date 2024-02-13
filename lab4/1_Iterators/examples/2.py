@@ -7,3 +7,12 @@ print(next(myit))
 print(next(myit))
 print(next(myit))
 print(next(myit))
+
+'''
+b
+a
+n
+a
+n
+a
+'''
