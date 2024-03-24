@@ -37,8 +37,8 @@ pygame.mixer.music.play()
 size_cover = 280
 covers = pygame.transform.scale(pygame.image.load(covers_seq[pos]), (size_cover, size_cover))
 
-play_button = pygame.transform.scale(pygame.image.load('play.png'), (60, 60))
-pause_button = pygame.transform.scale(pygame.image.load('pause.png'), (60, 60))
+play_button = pygame.transform.scale(pygame.image.load('MUSICPLAYER/play.png'), (60, 60))
+pause_button = pygame.transform.scale(pygame.image.load('MUSICPLAYER/pause.png'), (60, 60))
 
 record = True
 x = 0 
