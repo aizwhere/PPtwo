@@ -144,7 +144,7 @@ print("Player name:", snake.player_name)
 food = Food()
 score = 0
 level = 0
-speed = 20
+speed = 7
 
 # Главный игровой цикл
 clock = pygame.time.Clock()
